@@ -1,0 +1,10 @@
+body {
+  background: orange;
+}
+
+.size {
+  display: block;
+  text-align: center;
+  font-size: 64px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
